@@ -1,0 +1,7 @@
+technical-interview:
+  users-limit: 3
+  max-age: 100
+
+spring:
+  application:
+    name: technical-interview
